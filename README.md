@@ -6,3 +6,4 @@ PCA [wine.csv](https://github.com/ajinkyabhandarge/Assign_data4/files/9794188/wi
 clustering[EastWestAirlines.xlsx](https://github.com/ajinkyabhandarge/Assign_data4/files/9794450/EastWestAirlines.xlsx)
 [Clustering.csv](https://github.com/ajinkyabhandarge/Assign_data4/files/9794486/Clustering.csv)
 [50_Startups (1).csv](https://github.com/ajinkyabhandarge/Assign_data4/files/10121390/50_Startups.1.csv)
+[ToyotaCorolla (1).csv](https://github.com/ajinkyabhandarge/Assign_data4/files/10122398/ToyotaCorolla.1.csv)
